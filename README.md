@@ -1,6 +1,6 @@
 # :star: Testes Automatizados :star:
 
-## Repositório contendo exercícios propostos na matéria :exclamation:
+## :boom: Repositório contendo exercícios propostos na matéria :exclamation:
 
 ## Calendário da Disciplina :calendar:
 
