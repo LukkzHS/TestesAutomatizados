@@ -13,5 +13,5 @@
 
 ## Data dos Exercícios :date:
 
-A1 - Pesquisa sobre Métricas de software(**Data de Entrega: 26/03/2024 || Entregue: 25/03/2024**)  
-A2 - Teste da Calculadora(**Data de Entrega: 02/04/2024 || Entregue: 25/03/2024**) 
+A1 - Pesquisa sobre Métricas de software**(Data de Entrega: 26/03/2024 || Entregue: 25/03/2024)**
+A2 - Teste da Calculadora**(Data de Entrega: 02/04/2024 || Entregue: 25/03/2024)**
