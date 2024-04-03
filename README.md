@@ -10,6 +10,7 @@
 **12/03/2024**	Testes de Unidade JUNIT  
 **19/03/2024**	Desenvolvimento da pesquisa sobre métricas  
 **26/03/2024**	Seminário sobre métricas de software  
+**02/04/2024**	Atividade A2 : testes de unidade utilizando o JUNIT
 
 ## Data dos Exercícios :date:
 
